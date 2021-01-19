@@ -98,4 +98,4 @@ def get_median(number_list):
     else:
         median = number_list[mid]
 
-    return median
+    return float(median)

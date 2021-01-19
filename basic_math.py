@@ -29,6 +29,7 @@ def get_greatest(number_list):
 
 
 def get_smallest(number_list):
+    
     """
     주어진 리스트에서 제일 작은 숫자를 반환함
 
